@@ -3,7 +3,7 @@
 ## - 교재 
 
 
-<img src="./img/Book.jpg" width="400" height="600">
+<img src="https://t1.daumcdn.net/cfile/tistory/994D4A415DE2738514" width="400" height="600">
 
 **스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 이동욱 지음**      
 
